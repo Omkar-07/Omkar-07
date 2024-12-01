@@ -63,10 +63,15 @@
 
 ---
 
-### 🚀 Fun Projects and Highlights:
-- 🧱 **Built a GUI-based brick wall breaker game** in Java.
-- 🛍️ Currently working on a **Pet Store Application** for RESTful API operations.
-- 🎵 Designed a **music web project** inspired by Spotify.
+### 🏆 Achievements:
+- **Paper Publication**:  
+  Published a paper on **Human-Computer Interaction (HCI)** titled *Handy: Media Player Controller* in the **International Journal of Research and Analytical Reviews (IJRAR)**.  
+  - [View Paper](https://ijcrt.org/papers/IJCRT2205252.pdf)
+
+- **Certifications**:  
+  - Java Programming & Spring Boot Development - IT Vedant  
+  - MySQL Database Fundamentals - IT Vedant  
+  - Web Development - IT Vedant   
 
 ---
 
